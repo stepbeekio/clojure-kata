@@ -1,0 +1,7 @@
+.cpcache/
+.nrepl-port
+.lsp/.cache/
+.clj-kondo/.cache/
+target/
+.direnv/
+.envrc.local
